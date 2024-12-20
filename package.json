@@ -6,9 +6,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Relax1205/Sixth_project.Server.git"
+    "url": "git+https://github.com/UsainBald/frontend6.git"
   },
-  "homepage": "https://github.com/AstreyaJulia/mesto#readme",
+  "homepage": "https://github.com/UsainBald/frontend6",
   "scripts": {
     "build": "rimraf dist && webpack --mode production",
     "dev": "webpack serve",
